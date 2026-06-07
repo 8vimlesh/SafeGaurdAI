@@ -1,0 +1,8 @@
+yamlpath: ./dataset
+train: train
+val: val
+test: test
+nc: 2
+names:
+  0: with_mask
+  1: without_mask

@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+flask
+flask-socketio
+pandas
+numpy
+matplotlib
+pillow
+python-dotenv
+SQLAlchemy
